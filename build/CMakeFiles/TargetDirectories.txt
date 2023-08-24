@@ -1,3 +1,0 @@
-/home/cs18/Desktop/MyWebServer/webserver/build/CMakeFiles/rebuild_cache.dir
-/home/cs18/Desktop/MyWebServer/webserver/build/CMakeFiles/http_server.dir
-/home/cs18/Desktop/MyWebServer/webserver/build/CMakeFiles/edit_cache.dir
