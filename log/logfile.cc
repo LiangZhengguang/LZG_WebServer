@@ -8,7 +8,7 @@ LogFile::LogFile(const char* filepath = nullptr)
       lastwrite_(0),
       lastflush_(0) {
   if (!fp_) {
-    std::string DefaultPath = std::move("./LogFiles/LogFile_" +
+    std::string DefaultPath = std::move("./logfiles/LogFile_" +
                               Timestamp::Now().Timestamp::ToFormattedDefaultLogString() +
                               ".log");
     fp_ = ::fopen(DefaultPath.data(), "ae");
